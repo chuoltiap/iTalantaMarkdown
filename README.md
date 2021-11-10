@@ -19,7 +19,7 @@
 
 ![image](https://avatars.githubusercontent.com/u/93642845?v=4)
 
-<!-- ordered list -->
+<!-- unordered list -->
 List of Fruits
 
 
@@ -27,6 +27,13 @@ List of Fruits
 * Orange
 * Passion
 
+
+<!-- Ordered lists -->
+Coding languages
+
+1. Python
+1. Java
+1. javascript
 
 <!-- Italic -->
 This *word* is in italics
@@ -38,4 +45,3 @@ this **word** is in bold
 
 ---
 ___
-
