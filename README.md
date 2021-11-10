@@ -18,3 +18,24 @@
 <!-- image -->
 
 ![image](https://avatars.githubusercontent.com/u/93642845?v=4)
+
+<!-- ordered list -->
+List of Fruits
+
+
+* Banana
+* Orange
+* Passion
+
+
+<!-- Italic -->
+This *word* is in italics
+
+<!-- Bold -->
+this **word** is in bold
+
+<!-- Horizontal lines -->
+
+---
+___
+
